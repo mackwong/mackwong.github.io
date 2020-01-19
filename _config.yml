@@ -1,10 +1,7 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Mack
+author: Mack
+email: mail@mack.wang
+description: 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,9 +12,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    github:  mackwong
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -45,7 +41,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-hacker 
+theme: minima 
 
 plugins:
  - jekyll-feed
